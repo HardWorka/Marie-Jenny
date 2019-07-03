@@ -1,0 +1,38 @@
+.section-header{
+	padding:20px;
+
+}
+
+.pull-left{
+	width:105px;
+	padding:5px;
+	background-color: black;
+	color: white;
+	margin:20px;
+	display: inline;
+}
+
+.pull-right{
+	width:70px;
+	padding:5px;
+	border:1px solid black;
+	margin:20px;
+	display: inline;
+}
+
+.pull-right a{
+	color:black;
+}
+
+.movie-content{
+	padding:20px;
+}
+
+.movie-content .item{
+	height:200px;
+	width:140px;
+	margin:9px;
+	display:inline-block;
+	text-align:center;
+	background-color:#014664;
+}
